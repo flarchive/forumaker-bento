@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of forumaker/bento.** Not for installation: use [Packagist](https://packagist.org/packages/forumaker/bento) or the [upstream repository](https://github.com/forumaker/Bento).
 
-**0** versions archived · Latest: [`2.5.5`](https://github.com/flarchive/forumaker-bento/tree/archive/v2.5.5) · License: `MIT` · Flarum: `^2.0`
+**7** versions archived · Latest: [`2.5.5`](https://github.com/flarchive/forumaker-bento/tree/archive/v2.5.5) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.0.0` | 2026-05-31 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-bento/tree/archive/v2.0.0) |
+| `2.1.0` | 2026-05-31 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-bento/tree/archive/v2.1.0) |
+| `2.2.0` | 2026-05-31 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-bento/tree/archive/v2.2.0) |
+| `2.2.2` | 2026-05-31 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-bento/tree/archive/v2.2.2) |
+| `2.3.0` | 2026-05-31 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-bento/tree/archive/v2.3.0) |
+| `2.4.0` | 2026-06-02 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-bento/tree/archive/v2.4.0) |
+| `2.5.5` | 2026-06-11 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-bento/tree/archive/v2.5.5) |
 
 Catalog entry: [packages/forumaker-bento.json](https://github.com/flarchive/archive-index/blob/main/packages/forumaker-bento.json)
 
